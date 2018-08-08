@@ -1,0 +1,28 @@
+/* @font-face {
+  font-family: bit5by5;
+  src: url('static/fonts/bit5x5.woff')
+} */
+
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body {
+  font-family: 'Space Mono', monospace;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
