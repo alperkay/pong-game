@@ -1,3 +1,3 @@
 # pong-game
 
-<img src="https://media.giphy.com/media/4HvfjVaSCxHL4iauSa/giphy.gif" />
+<img src="https://media.giphy.com/media/PQvBHnGK01O4mnLFmR/giphy.gif" />
